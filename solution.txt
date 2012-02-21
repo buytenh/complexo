@@ -1,0 +1,754 @@
+FOUND INTERESTING STATE!!!!!
+============================
+distance		: 0
+how we got here:	: initial
+code			: a=1 p=1 || cc=4 lcl=3 lcr=9 || ap=1 as=1 pp=1 ps=1
+atlas is		: in the lobby
+p-body is		: in the lobby
+atlas primary is	: -
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 1
+how we got here:	: travel through force field
+code			: a=4 p=1 || cc=4 lcl=3 lcr=9 || ap=1 as=1 pp=1 ps=1
+atlas is		: in the big room
+p-body is		: in the lobby
+atlas primary is	: -
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 2
+how we got here:	: travel through force field
+code			: a=2 p=1 || cc=4 lcl=3 lcr=9 || ap=1 as=1 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: in the lobby
+atlas primary is	: -
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 3
+how we got here:	: set portal
+code			: a=2 p=1 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: in the lobby
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 4
+how we got here:	: travel
+code			: a=7 p=1 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, before the lasers
+p-body is		: in the lobby
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 5
+how we got here:	: travel through force field
+code			: a=7 p=4 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, before the lasers
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 6
+how we got here:	: travel through force field
+code			: a=7 p=7 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, before the lasers
+p-body is		: right up, before the lasers
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 7
+how we got here:	: travel
+code			: a=8 p=7 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, between the lasers and force field
+p-body is		: right up, before the lasers
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 8
+how we got here:	: travel
+code			: a=8 p=1 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, between the lasers and force field
+p-body is		: in the lobby
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 9
+how we got here:	: travel through force field
+code			: a=8 p=4 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, between the lasers and force field
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 10
+how we got here:	: travel
+code			: a=8 p=5 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, between the lasers and force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 11
+how we got here:	: travel
+code			: a=9 p=5 || cc=4 lcl=3 lcr=9 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, behind the force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 12
+how we got here:	: travel with cube
+code			: a=8 p=5 || cc=4 lcl=3 lcr=8 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, between the lasers and force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, between the lasers and force field
+
+distance		: 13
+how we got here:	: push cube through lasers
+code			: a=8 p=5 || cc=4 lcl=3 lcr=7 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, between the lasers and force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 14
+how we got here:	: travel
+code			: a=9 p=5 || cc=4 lcl=3 lcr=7 || ap=2 as=1 pp=1 ps=1
+atlas is		: right up, behind the force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: -
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 15
+how we got here:	: set portal
+code			: a=9 p=5 || cc=4 lcl=3 lcr=7 || ap=2 as=8 pp=1 ps=1
+atlas is		: right up, behind the force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 16
+how we got here:	: travel
+code			: a=9 p=4 || cc=4 lcl=3 lcr=7 || ap=2 as=8 pp=1 ps=1
+atlas is		: right up, behind the force field
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 17
+how we got here:	: travel through force field
+code			: a=9 p=7 || cc=4 lcl=3 lcr=7 || ap=2 as=8 pp=1 ps=1
+atlas is		: right up, behind the force field
+p-body is		: right up, before the lasers
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 18
+how we got here:	: travel with cube
+code			: a=9 p=1 || cc=4 lcl=3 lcr=1 || ap=2 as=8 pp=1 ps=1
+atlas is		: right up, behind the force field
+p-body is		: in the lobby
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the lobby
+
+distance		: 19
+how we got here:	: travel through portal with cube
+code			: a=9 p=6 || cc=4 lcl=3 lcr=6 || ap=2 as=8 pp=1 ps=1
+atlas is		: right up, behind the force field
+p-body is		: in the penalty box
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the penalty box
+
+distance		: 20
+how we got here:	: set portal
+code			: a=9 p=6 || cc=4 lcl=3 lcr=6 || ap=2 as=8 pp=4 ps=1
+atlas is		: right up, behind the force field
+p-body is		: in the penalty box
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: -
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the penalty box
+
+distance		: 21
+how we got here:	: set portal
+code			: a=9 p=6 || cc=4 lcl=3 lcr=6 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, behind the force field
+p-body is		: in the penalty box
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the penalty box
+
+distance		: 22
+how we got here:	: travel through portal with cube
+code			: a=9 p=4 || cc=4 lcl=3 lcr=4 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, behind the force field
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: in the big room
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the big room
+
+distance		: 23
+how we got here:	: cube push
+code			: a=9 p=4 || cc=6 lcl=3 lcr=4 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, behind the force field
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: in the penalty box
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the big room
+
+distance		: 24
+how we got here:	: cube pull
+code			: a=9 p=4 || cc=9 lcl=3 lcr=4 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, behind the force field
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, behind the force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the big room
+
+distance		: 25
+how we got here:	: travel with cube
+code			: a=9 p=5 || cc=9 lcl=3 lcr=5 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, behind the force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, behind the force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the big room, on the button
+
+distance		: 26
+how we got here:	: travel with cube
+code			: a=8 p=5 || cc=8 lcl=3 lcr=5 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, between the lasers and force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, between the lasers and force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the big room, on the button
+
+distance		: 27
+how we got here:	: travel
+code			: a=9 p=5 || cc=8 lcl=3 lcr=5 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, behind the force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, between the lasers and force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: in the big room, on the button
+
+distance		: 28
+how we got here:	: cube destroy
+code			: a=9 p=5 || cc=8 lcl=3 lcr=9 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, behind the force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, between the lasers and force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, behind the force field
+
+distance		: 29
+how we got here:	: travel with cube
+code			: a=8 p=5 || cc=8 lcl=3 lcr=8 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, between the lasers and force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, between the lasers and force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, between the lasers and force field
+
+distance		: 30
+how we got here:	: push cube through lasers
+code			: a=8 p=5 || cc=7 lcl=3 lcr=8 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, between the lasers and force field
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, before the lasers
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, between the lasers and force field
+
+distance		: 31
+how we got here:	: travel with cube
+code			: a=7 p=5 || cc=7 lcl=3 lcr=7 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, before the lasers
+p-body is		: in the big room, on the button
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, before the lasers
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 32
+how we got here:	: travel
+code			: a=7 p=4 || cc=7 lcl=3 lcr=7 || ap=2 as=8 pp=4 ps=6
+atlas is		: right up, before the lasers
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: right up, before the lasers
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 33
+how we got here:	: travel with cube
+code			: a=2 p=4 || cc=2 lcl=3 lcr=7 || ap=2 as=8 pp=4 ps=6
+atlas is		: left up, before the force field
+p-body is		: in the big room
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: penalty box, ground
+companion cube is	: left up, before the force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 34
+how we got here:	: travel through force field
+code			: a=2 p=7 || cc=2 lcl=3 lcr=7 || ap=2 as=8 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: right up, before the lasers
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: right up, before the lasers
+
+distance		: 35
+how we got here:	: travel with cube
+code			: a=2 p=2 || cc=2 lcl=3 lcr=2 || ap=2 as=8 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: left up, before the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: left up, before the force field
+
+distance		: 36
+how we got here:	: travel
+code			: a=3 p=2 || cc=2 lcl=3 lcr=2 || ap=2 as=8 pp=1 ps=1
+atlas is		: left up, behind the force field
+p-body is		: left up, before the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: left up, behind the force field
+lens cube R is		: left up, before the force field
+
+distance		: 37
+how we got here:	: travel with cube
+code			: a=2 p=2 || cc=2 lcl=2 lcr=2 || ap=2 as=8 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: left up, before the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: left up, before the force field
+lens cube R is		: left up, before the force field
+
+distance		: 38
+how we got here:	: travel with cube
+code			: a=2 p=1 || cc=2 lcl=1 lcr=2 || ap=2 as=8 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: in the lobby
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 39
+how we got here:	: travel through portal
+code			: a=2 p=6 || cc=2 lcl=1 lcr=2 || ap=2 as=8 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: in the penalty box
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 40
+how we got here:	: set portal
+code			: a=2 p=6 || cc=2 lcl=1 lcr=2 || ap=3 as=8 pp=1 ps=1
+atlas is		: left up, before the force field
+p-body is		: in the penalty box
+atlas primary is	: left back
+atlas secondary is	: penalty box, long wall
+p-body primary is	: -
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 41
+how we got here:	: set portal
+code			: a=2 p=6 || cc=2 lcl=1 lcr=2 || ap=3 as=8 pp=4 ps=1
+atlas is		: left up, before the force field
+p-body is		: in the penalty box
+atlas primary is	: left back
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 42
+how we got here:	: travel through portal
+code			: a=2 p=3 || cc=2 lcl=1 lcr=2 || ap=3 as=8 pp=4 ps=1
+atlas is		: left up, before the force field
+p-body is		: left up, behind the force field
+atlas primary is	: left back
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 43
+how we got here:	: set portal
+code			: a=2 p=3 || cc=2 lcl=1 lcr=2 || ap=2 as=8 pp=4 ps=1
+atlas is		: left up, before the force field
+p-body is		: left up, behind the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 44
+how we got here:	: travel
+code			: a=7 p=3 || cc=2 lcl=1 lcr=2 || ap=2 as=8 pp=4 ps=1
+atlas is		: right up, before the lasers
+p-body is		: left up, behind the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 45
+how we got here:	: travel
+code			: a=7 p=2 || cc=2 lcl=1 lcr=2 || ap=2 as=8 pp=4 ps=1
+atlas is		: right up, before the lasers
+p-body is		: left up, before the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: -
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 46
+how we got here:	: set portal
+code			: a=7 p=2 || cc=2 lcl=1 lcr=2 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, before the lasers
+p-body is		: left up, before the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: left up, before the force field
+
+distance		: 47
+how we got here:	: travel with cube
+code			: a=7 p=7 || cc=2 lcl=1 lcr=7 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, before the lasers
+p-body is		: right up, before the lasers
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: right up, before the lasers
+
+distance		: 48
+how we got here:	: travel
+code			: a=8 p=7 || cc=2 lcl=1 lcr=7 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, between the lasers and force field
+p-body is		: right up, before the lasers
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: right up, before the lasers
+
+distance		: 49
+how we got here:	: travel with cube
+code			: a=8 p=8 || cc=2 lcl=1 lcr=8 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, between the lasers and force field
+p-body is		: right up, between the lasers and force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: left up, before the force field
+lens cube L is		: in the lobby
+lens cube R is		: right up, between the lasers and force field
+
+distance		: 50
+how we got here:	: cube destroy
+code			: a=8 p=8 || cc=4 lcl=1 lcr=8 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, between the lasers and force field
+p-body is		: right up, between the lasers and force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: in the big room
+lens cube L is		: in the lobby
+lens cube R is		: right up, between the lasers and force field
+
+distance		: 51
+how we got here:	: move cube to button via funnel
+code			: a=8 p=8 || cc=5 lcl=1 lcr=8 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, between the lasers and force field
+p-body is		: right up, between the lasers and force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: in the big room, on the button
+lens cube L is		: in the lobby
+lens cube R is		: right up, between the lasers and force field
+
+distance		: 52
+how we got here:	: travel
+code			: a=9 p=8 || cc=5 lcl=1 lcr=8 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, behind the force field
+p-body is		: right up, between the lasers and force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: in the big room, on the button
+lens cube L is		: in the lobby
+lens cube R is		: right up, between the lasers and force field
+
+distance		: 53
+how we got here:	: travel with cube
+code			: a=9 p=9 || cc=5 lcl=1 lcr=9 || ap=2 as=8 pp=4 ps=3
+atlas is		: right up, behind the force field
+p-body is		: right up, behind the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: middle middle
+p-body secondary is	: left back
+companion cube is	: in the big room, on the button
+lens cube L is		: in the lobby
+lens cube R is		: right up, behind the force field
+
+distance		: 54
+how we got here:	: set portal
+code			: a=9 p=9 || cc=5 lcl=1 lcr=9 || ap=2 as=8 pp=6 ps=3
+atlas is		: right up, behind the force field
+p-body is		: right up, behind the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: penalty box, ground
+p-body secondary is	: left back
+companion cube is	: in the big room, on the button
+lens cube L is		: in the lobby
+lens cube R is		: right up, behind the force field
+
+distance		: 55
+how we got here:	: travel
+code			: a=10 p=9 || cc=5 lcl=1 lcr=9 || ap=2 as=8 pp=6 ps=3
+atlas is		: at the exit
+p-body is		: right up, behind the force field
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: penalty box, ground
+p-body secondary is	: left back
+companion cube is	: in the big room, on the button
+lens cube L is		: in the lobby
+lens cube R is		: right up, behind the force field
+
+distance		: 56
+how we got here:	: travel with cube
+code			: a=10 p=10 || cc=5 lcl=1 lcr=10 || ap=2 as=8 pp=6 ps=3
+atlas is		: at the exit
+p-body is		: at the exit
+atlas primary is	: lobby
+atlas secondary is	: penalty box, long wall
+p-body primary is	: penalty box, ground
+p-body secondary is	: left back
+companion cube is	: in the big room, on the button
+lens cube L is		: in the lobby
+lens cube R is		: at the exit
+
+have left force field: 1
+have light bridge: 0
+have right force field: 0
+have laser out penalty box long wall: 1
+left funnel active: 1
+have laser out left back: 0
+have laser cube in left front: 0
+middle funnel active: 0
+funnel to pillar: 0
+funnel to exit: 1
+======================
